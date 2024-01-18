@@ -1,0 +1,29 @@
+body{
+    margin-left: 20rem;
+    margin-top: 17rem;
+    align-items: center;
+}
+#myBtn{
+    font-family: Verdana, sans-serif;
+    font-size: 3.5rem;
+    border-radius: 1.6vh;
+    border: none;
+    background-color: #ddd;
+    padding: 5px 20px;
+    cursor: pointer;
+}
+#myBtn:hover{
+    color: rgb(255, 255, 255);
+    background-color:rgb(109, 180, 27);
+
+}
+#myBtn:active{
+    background-color:rgb(109, 20, 27);
+    
+}
+.myLabels{
+    font-family: hevetica,sans-serif;
+    font-size: 4.5rem;
+    font-weight: bold;
+    color: hsl(20, 90%, 60%);   
+}
